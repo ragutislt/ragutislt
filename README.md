@@ -2,7 +2,7 @@
 - 👀 I’m interested in software architecture and development. I'm mostly using Java for backend development and React for frontend.
 - 🌱 I’m currently learning Kubernetes
 - 📫 You can find me on LinkedIn at https://www.linkedin.com/in/aurimas-dainius/
-- Also check out my personal website: https://www.adainius.com/
+- Also check out my personal website: https://adainius.com/
 
 <!---
 ragutislt/ragutislt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
